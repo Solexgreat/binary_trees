@@ -1,5 +1,4 @@
 #ifndef _BINARY_TREES_H
-#!/bin/bash
 #define _BINARY_TREES_H
 
 #include <stddef.h>
